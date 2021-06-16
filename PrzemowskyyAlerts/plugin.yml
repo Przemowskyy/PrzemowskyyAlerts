@@ -1,0 +1,8 @@
+main: przemowskyy.przemowskyyalerts.main.Main
+name: PrzemowskyyAlerts
+version: 0.7
+author: Przemowskyy
+api-version: 1.13
+
+commands:
+  alert:
